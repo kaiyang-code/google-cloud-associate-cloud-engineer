@@ -1,3 +1,10 @@
+# Notes
+
+- **private cloud:** private cloud = on-premise cloud
+  - private cloud follows the 5 characteristics of cloud
+- **on-premise data center:** a group of servers that you privately own and control
+  - private data center does not follow the 5 characteristics of cloud
+
 # Google Cloud Associate Cloud Engineer  
 
 Course Files for Google Cloud Associate Cloud Engineer Course by Antoni Tzavelas
