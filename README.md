@@ -5,6 +5,9 @@
 - **on-premise data center:** a group of servers that you privately own and control
   - private data center does not follow the 5 characteristics of cloud
 - <img width="1540" alt="Screen Shot 2023-06-24 at 5 28 01 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/8069c086-d5c6-4f73-ac9a-c4aa69641db9">
+- **Network File System (NFS):** a distributed file system protocol for shared storage. The NFS shared storage protocol defines the way files are stored and retrieved from storage devices across networks. It is one of several network-attached storage (NAS) distributed file system standards
+- **IOPS:** input/output operations per second
+- 
 
 
 # Google Cloud Associate Cloud Engineer  
