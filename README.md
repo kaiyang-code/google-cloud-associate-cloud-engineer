@@ -16,7 +16,10 @@
 - **billing account:** used to track the usage and costs of GCP services, and to receive invoices or make payments for those services
 - **payment profile:** a representation of a payment method used to pay for GCP services
 - **billing account vs payment profile:** A billing account can have one payment profile associated with it, and a payment profile can be associated with one billing account at a time
-- 
+- **workspace:** A workspace usually represents the root folder of your project and includes your project-specific configuration files
+  - a workspace is a container for organizing and managing related resources, such as projects, folders, and billing accounts
+  - workspaces are used to group resources together based on criteria such as business unit, department, or environment (e.g., development, testing, production)
+  - with workspaces, you can specify persistent settings, run and debug configurations, and UI states (like open files) for all the folders in your workspace
 
 
 # Google Cloud Associate Cloud Engineer  
