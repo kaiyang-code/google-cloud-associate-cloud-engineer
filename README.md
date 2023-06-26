@@ -20,6 +20,8 @@
   - a workspace is a container for organizing and managing related resources, such as projects, folders, and billing accounts
   - workspaces are used to group resources together based on criteria such as business unit, department, or environment (e.g., development, testing, production)
   - with workspaces, you can specify persistent settings, run and debug configurations, and UI states (like open files) for all the folders in your workspace
+- <img width="1104" alt="Screen Shot 2023-06-26 at 11 06 26 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/20c0ff57-fdec-4945-ac40-ba323867b134">
+
 
 
 # Google Cloud Associate Cloud Engineer  
