@@ -30,6 +30,22 @@
 - **Google Cloud Directory Sync (GCDS)**
   - <kbd><img width="1433" alt="Screen Shot 2023-06-27 at 6 49 16 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/d51443db-c566-45b4-a4b7-fb8e43bbe570"></kbd>
 
+## Networking Services
+
+- **subnetting:**
+  - the process of dividing a network into smaller networks
+  - the number of the perfix will increase each time you subnet
+- The subnet IP address range within a VPC in GCP is typically private IP addresses
+- <kbd><img width="777" alt="Screen Shot 2023-06-28 at 1 15 06 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/8d9b4a04-1ac6-4cac-9c33-06932bf1ec07"></kbd>
+- **private google access:**
+  - a feature in GCP that allows instances within a VPC network to access Google APIs and services using private IP addresses, without requiring public IP addresses or internet access
+- <kbd><img width="666" alt="Screen Shot 2023-06-28 at 1 24 03 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/ee96be7c-6ff2-4bd3-b707-41e422025fb1"></kbd>
+- **internal IP address reservation:**
+  - when you reserve an internal IP address, it guarantees that the IP address will be available for use by your instances or other resources within the VPC
+  - when you reserve an IP address, it becomes `static` as shown in the above graph 
+
+
+
 
 
 
