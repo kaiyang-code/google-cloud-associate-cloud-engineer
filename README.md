@@ -42,14 +42,10 @@
 - <kbd><img width="666" alt="Screen Shot 2023-06-28 at 1 24 03 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/ee96be7c-6ff2-4bd3-b707-41e422025fb1"></kbd>
 - **internal IP address reservation:**
   - when you reserve an internal IP address, it guarantees that the IP address will be available for use by your instances or other resources within the VPC
-  - when you reserve an IP address, it becomes `static` instead of `ephemeral` as shown in the above graph 
-
-
-
-
-
-
-
+  - <kbd><img width="777" alt="Screen Shot 2023-06-28 at 1 35 52 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/e96a59a8-7a93-4ddf-b8de-c89b0c739c6e"></kbd>
+- **external IP address reservation:**
+  - <kbd><img width="777" alt="Screen Shot 2023-06-28 at 1 38 14 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/d8bf274a-ee9a-4ca9-bbc3-7169604d033d"></kbd>
+-
 
 
 
