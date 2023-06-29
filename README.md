@@ -57,10 +57,20 @@
   - **two-tier web service:**
     - <kbd><img width="888" alt="Screen Shot 2023-06-28 at 2 44 13 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/c4c835be-8f78-4792-9d7e-64cbd09bf6a9"></kbd>
 - **DNS (Domain Name System):**
-  - <kbd><img width="1598" alt="Screen Shot 2023-06-28 at 3 30 13 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/3f4745cf-4a4f-4441-8cdb-cf1852f6d506"></kbd>
-  - <kbd><img width="1501" alt="Screen Shot 2023-06-28 at 3 30 54 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/b3a996d4-8752-4b29-859e-2f3b16db0a3a"></kbd>
+  - **zone:** a zone is a container of DNS records that are queried by DNS
+  - <kbd><img width="888" alt="Screen Shot 2023-06-28 at 3 30 13 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/3f4745cf-4a4f-4441-8cdb-cf1852f6d506"></kbd>
+  - <kbd><img width="888" alt="Screen Shot 2023-06-28 at 3 30 54 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/b3a996d4-8752-4b29-859e-2f3b16db0a3a"></kbd>
   - **TTL:**
-    - TTL stands for Time to Live in the context of DNS (Domain Name System). It is a value specified in DNS records that indicates the length of time, in seconds, that a DNS resolver or caching server should store the information before considering it expired and requesting a fresh copy from the authoritative DNS server.
+    - TTL stands for Time to Live in the context of DNS (Domain Name System). It is a value specified in DNS records that indicates the length of time, in seconds, that a DNS resolver or caching server should store the information before considering it expired and requesting a fresh copy from the authoritative DNS server
+- **NAT (Network Address Translation)**
+  - **Port Address Translation (PAT):** this type of NAT is where multiple private IP addresses are translated using a single public IP address and a specific port
+    -  <kbd><img width="888" alt="Screen Shot 2023-06-29 at 4 27 22 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/02fe36c6-e7ac-4007-a78e-cf51ee892ed8"></kbd>
+  -  **Static NAT:**
+    - <kbd><img width="888" alt="Screen Shot 2023-06-29 at 4 15 53 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/245e30fb-ca3a-4176-b9af-8615c7c63e5f"></kbd>
+  - **Dynamic NAT:**
+    - <kbd><img width="888" alt="Screen Shot 2023-06-29 at 4 23 14 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/02b5d2df-90a3-46c4-9d42-9bc1cdeefc06"></kbd>
+
+
 
 
 
