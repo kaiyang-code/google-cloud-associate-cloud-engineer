@@ -45,7 +45,29 @@
   - <kbd><img width="777" alt="Screen Shot 2023-06-28 at 1 35 52 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/e96a59a8-7a93-4ddf-b8de-c89b0c739c6e"></kbd>
 - **external IP address reservation:**
   - <kbd><img width="777" alt="Screen Shot 2023-06-28 at 1 38 14 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/d8bf274a-ee9a-4ca9-bbc3-7169604d033d"></kbd>
--
+- To allow ingress traffic from VM instances in a peer network, you must create ingress allow firewall rules. By default, ingress to VMs are blocked by the **implied deny ingress rule**
+  -  <kbd><img width="888" alt="Screen Shot 2023-06-28 at 2 21 47 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/9439c6d2-ba67-4b66-a84b-59a8805a5fdf"></kbd>
+- **Shared VPC**
+  - **single host shared vpc:**
+    - <kbd><img width="888" alt="Screen Shot 2023-06-28 at 2 38 33 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/4a7dab60-61e2-4edf-857a-5b02935ae9ec"></kbd>
+  - **multi-host shared vpc:**
+    - <kbd><img width="888" alt="Screen Shot 2023-06-28 at 2 39 57 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/cc6ee8eb-b7c4-4d0f-9bf9-5500d13c693b"></kbd>
+  - **hybrid enviornment:**
+    - <kbd><img width="888" alt="Screen Shot 2023-06-28 at 2 42 52 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/2ad3dc2b-83ae-4e8c-ba83-9b9e0f183b41"></kbd>
+  - **two-tier web service:**
+    - <kbd><img width="888" alt="Screen Shot 2023-06-28 at 2 44 13 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/c4c835be-8f78-4792-9d7e-64cbd09bf6a9"></kbd>
+- **DNS (Domain Name System):**
+  - <kbd><img width="1598" alt="Screen Shot 2023-06-28 at 3 30 13 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/3f4745cf-4a4f-4441-8cdb-cf1852f6d506"></kbd>
+  - <kbd><img width="1501" alt="Screen Shot 2023-06-28 at 3 30 54 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/b3a996d4-8752-4b29-859e-2f3b16db0a3a"></kbd>
+  - **TTL:**
+    - TTL stands for Time to Live in the context of DNS (Domain Name System). It is a value specified in DNS records that indicates the length of time, in seconds, that a DNS resolver or caching server should store the information before considering it expired and requesting a fresh copy from the authoritative DNS server.
+
+
+
+
+
+
+
 
 
 
