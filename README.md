@@ -70,15 +70,9 @@
   - **Dynamic NAT:**
     - <kbd><img width="888" alt="Screen Shot 2023-06-29 at 4 23 14 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/02b5d2df-90a3-46c4-9d42-9bc1cdeefc06"></kbd>
 
+## Compute Engine
 
-
-
-
-
-
-
-
-
+-
 
 
 # Google Cloud Associate Cloud Engineer  
