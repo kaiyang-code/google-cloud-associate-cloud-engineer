@@ -72,7 +72,9 @@
 
 ## Compute Engine
 
--
+- **instance life-cycle:**
+  -  <kbd><img width="777" alt="Screen Shot 2023-06-30 at 4 05 41 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/7dcc979b-6677-4df0-b9ab-9daa4ed4fdda">/kbd>
+
 
 
 # Google Cloud Associate Cloud Engineer  
