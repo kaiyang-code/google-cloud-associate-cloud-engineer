@@ -149,8 +149,10 @@
   - function must be stateless
   - function by default has access to public internet. It can also be configured to be private and used within your VPC
   - <kbd><img width="666" alt="Screen Shot 2023-07-02 at 12 45 10 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/857e6310-6b70-4e25-b74c-63ddfb8c19cb"></kbd>
-- 
 
+## Big Data and Machine Learning
+
+## Operations Suite
 
 
 
