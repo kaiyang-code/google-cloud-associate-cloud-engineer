@@ -74,9 +74,10 @@
 
 - **Persistent Disk** and **Local SSD** are the two available types of block storage devices in Google Cloud
 - **instance life-cycle:**
-  -  <kbd><img width="777" alt="Screen Shot 2023-06-30 at 4 05 41 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/7dcc979b-6677-4df0-b9ab-9daa4ed4fdda">/kbd>
+  -  <kbd><img width="777" alt="Screen Shot 2023-06-30 at 4 05 41 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/7dcc979b-6677-4df0-b9ab-9daa4ed4fdda"></kbd>
 - **Persistent Disk & Local SSD:**
-  - 
+  - <kbd><img width="777" alt="Screen Shot 2023-07-01 at 1 24 09 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/129cf98a-9f79-400c-ab68-5a12ba2a7d17"></kbd>
+
 
 
 
