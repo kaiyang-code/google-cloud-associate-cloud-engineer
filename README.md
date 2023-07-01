@@ -130,10 +130,10 @@
 - **GKE Storage Options:**
   - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 6 05 02 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/f30a2527-5bbd-4466-bf4a-76c84443920a"></kbd>
 
+## Hybrid Connectivity
 
-
-
-
+- **IPsec:** short for Internet Protocol Security, is a suite of protocols and standards that provide security services for IP (Internet Protocol) network communication
+- **IKE:** stands for Internet Key Exchange, is a protocol used for secure key exchange and negotiation in IPsec-based VPN (Virtual Private Network) connections
 
 
 
