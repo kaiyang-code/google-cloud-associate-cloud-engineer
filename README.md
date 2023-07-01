@@ -36,49 +36,75 @@
   - the process of dividing a network into smaller networks
   - the number of the perfix will increase each time you subnet
 - The subnet IP address range within a VPC in GCP is typically private IP addresses
-- <kbd><img width="777" alt="Screen Shot 2023-06-28 at 1 15 06 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/8d9b4a04-1ac6-4cac-9c33-06932bf1ec07"></kbd>
+- <kbd><img width="666" alt="Screen Shot 2023-06-28 at 1 15 06 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/8d9b4a04-1ac6-4cac-9c33-06932bf1ec07"></kbd>
 - **private google access:**
   - a feature in GCP that allows instances within a VPC network to access Google APIs and services using private IP addresses, without requiring public IP addresses or internet access
 - <kbd><img width="666" alt="Screen Shot 2023-06-28 at 1 24 03 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/ee96be7c-6ff2-4bd3-b707-41e422025fb1"></kbd>
 - **internal IP address reservation:**
   - when you reserve an internal IP address, it guarantees that the IP address will be available for use by your instances or other resources within the VPC
-  - <kbd><img width="777" alt="Screen Shot 2023-06-28 at 1 35 52 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/e96a59a8-7a93-4ddf-b8de-c89b0c739c6e"></kbd>
+  - <kbd><img width="666" alt="Screen Shot 2023-06-28 at 1 35 52 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/e96a59a8-7a93-4ddf-b8de-c89b0c739c6e"></kbd>
 - **external IP address reservation:**
-  - <kbd><img width="777" alt="Screen Shot 2023-06-28 at 1 38 14 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/d8bf274a-ee9a-4ca9-bbc3-7169604d033d"></kbd>
+  - <kbd><img width="666" alt="Screen Shot 2023-06-28 at 1 38 14 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/d8bf274a-ee9a-4ca9-bbc3-7169604d033d"></kbd>
 - To allow ingress traffic from VM instances in a peer network, you must create ingress allow firewall rules. By default, ingress to VMs are blocked by the **implied deny ingress rule**
-  -  <kbd><img width="888" alt="Screen Shot 2023-06-28 at 2 21 47 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/9439c6d2-ba67-4b66-a84b-59a8805a5fdf"></kbd>
+  -  <kbd><img width="666" alt="Screen Shot 2023-06-28 at 2 21 47 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/9439c6d2-ba67-4b66-a84b-59a8805a5fdf"></kbd>
 - **Shared VPC**
   - **single host shared vpc:**
-    - <kbd><img width="888" alt="Screen Shot 2023-06-28 at 2 38 33 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/4a7dab60-61e2-4edf-857a-5b02935ae9ec"></kbd>
+    - <kbd><img width="666" alt="Screen Shot 2023-06-28 at 2 38 33 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/4a7dab60-61e2-4edf-857a-5b02935ae9ec"></kbd>
   - **multi-host shared vpc:**
-    - <kbd><img width="888" alt="Screen Shot 2023-06-28 at 2 39 57 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/cc6ee8eb-b7c4-4d0f-9bf9-5500d13c693b"></kbd>
+    - <kbd><img width="666" alt="Screen Shot 2023-06-28 at 2 39 57 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/cc6ee8eb-b7c4-4d0f-9bf9-5500d13c693b"></kbd>
   - **hybrid enviornment:**
-    - <kbd><img width="888" alt="Screen Shot 2023-06-28 at 2 42 52 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/2ad3dc2b-83ae-4e8c-ba83-9b9e0f183b41"></kbd>
+    - <kbd><img width="666" alt="Screen Shot 2023-06-28 at 2 42 52 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/2ad3dc2b-83ae-4e8c-ba83-9b9e0f183b41"></kbd>
   - **two-tier web service:**
-    - <kbd><img width="888" alt="Screen Shot 2023-06-28 at 2 44 13 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/c4c835be-8f78-4792-9d7e-64cbd09bf6a9"></kbd>
+    - <kbd><img width="666" alt="Screen Shot 2023-06-28 at 2 44 13 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/c4c835be-8f78-4792-9d7e-64cbd09bf6a9"></kbd>
 - **DNS (Domain Name System):**
   - **zone:** a zone is a container of DNS records that are queried by DNS
-  - <kbd><img width="888" alt="Screen Shot 2023-06-28 at 3 30 13 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/3f4745cf-4a4f-4441-8cdb-cf1852f6d506"></kbd>
-  - <kbd><img width="888" alt="Screen Shot 2023-06-28 at 3 30 54 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/b3a996d4-8752-4b29-859e-2f3b16db0a3a"></kbd>
+  - <kbd><img width="666" alt="Screen Shot 2023-06-28 at 3 30 13 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/3f4745cf-4a4f-4441-8cdb-cf1852f6d506"></kbd>
+  - <kbd><img width="666" alt="Screen Shot 2023-06-28 at 3 30 54 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/b3a996d4-8752-4b29-859e-2f3b16db0a3a"></kbd>
   - **TTL:**
     - TTL stands for Time to Live in the context of DNS (Domain Name System). It is a value specified in DNS records that indicates the length of time, in seconds, that a DNS resolver or caching server should store the information before considering it expired and requesting a fresh copy from the authoritative DNS server
 - **NAT (Network Address Translation)**
   - **Port Address Translation (PAT):** this type of NAT is where multiple private IP addresses are translated using a single public IP address and a specific port
-    -  <kbd><img width="888" alt="Screen Shot 2023-06-29 at 4 27 22 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/02fe36c6-e7ac-4007-a78e-cf51ee892ed8"></kbd>
+    -  <kbd><img width="666" alt="Screen Shot 2023-06-29 at 4 27 22 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/02fe36c6-e7ac-4007-a78e-cf51ee892ed8"></kbd>
   -  **Static NAT:**
-    - <kbd><img width="888" alt="Screen Shot 2023-06-29 at 4 15 53 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/245e30fb-ca3a-4176-b9af-8615c7c63e5f"></kbd>
+    - <kbd><img width="666" alt="Screen Shot 2023-06-29 at 4 15 53 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/245e30fb-ca3a-4176-b9af-8615c7c63e5f"></kbd>
   - **Dynamic NAT:**
-    - <kbd><img width="888" alt="Screen Shot 2023-06-29 at 4 23 14 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/02b5d2df-90a3-46c4-9d42-9bc1cdeefc06"></kbd>
+    - <kbd><img width="666" alt="Screen Shot 2023-06-29 at 4 23 14 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/02b5d2df-90a3-46c4-9d42-9bc1cdeefc06"></kbd>
 
 ## Compute Engine
 
 - **Persistent Disk** and **Local SSD** are the two available types of block storage devices in Google Cloud
 - **instance life-cycle:**
-  -  <kbd><img width="777" alt="Screen Shot 2023-06-30 at 4 05 41 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/7dcc979b-6677-4df0-b9ab-9daa4ed4fdda"></kbd>
+  -  <kbd><img width="666" alt="Screen Shot 2023-06-30 at 4 05 41 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/7dcc979b-6677-4df0-b9ab-9daa4ed4fdda"></kbd>
 - **Persistent Disk & Local SSD:**
-  - <kbd><img width="777" alt="Screen Shot 2023-07-01 at 1 24 09 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/129cf98a-9f79-400c-ab68-5a12ba2a7d17"></kbd>
+  - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 1 24 09 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/129cf98a-9f79-400c-ab68-5a12ba2a7d17"></kbd>
 - **snapshots:**
-  - <kbd><img width="777" alt="Screen Shot 2023-07-01 at 11 36 04 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/a678b0bf-5740-42a7-898d-ff92be234917"></kbd>
+  - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 11 36 04 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/a678b0bf-5740-42a7-898d-ff92be234917"></kbd>
+
+## High Availability and Autoscaling
+
+- **Load Balancing Type:**
+  - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 12 15 20 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/8cc214c0-48d4-4458-ba8a-336da89efbb8"></kbd>
+  - **Session Affinity:** a technique used in load balancing to ensure that requests from a client are consistently routed to the same server or instance for the duration of a session
+  - **Service Timeout:** a parameter used in load balancing to determine how long a load balancer should wait for a response from a server or instance before considering it unresponsive or timed out
+  - **Backend service:** defines how Cloud Load balancing distributes traffic, the backend services configuration contains a set of values such as the protocol used to connect to the backend, various distribution in session settings, health checks, and timeouts\
+  - **Network Endpoint Group (NEG):** a configuration object that specifies a group of backend endpoints or services and a common use case for this configuration is deploying into containers
+- **HTTP(S) Load Balancer:**
+  - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 12 38 33 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/6e5a95a5-f9a9-401f-bc92-cf26897e41e7"></kbd>
+  - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 12 39 32 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/83c63cdf-d336-4d84-b257-5f2d4168e4f6"></kbd>
+- **SSL Proxy**
+  - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 12 41 21 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/01ce12ab-e662-4169-a47c-b81b24fb431a"></kbd>
+- **TCP Proxy**
+  - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 12 43 50 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/7a34c59a-00eb-49ad-a686-0a2f9b15c234"></kbd>
+- **Network Load Balancer**
+  - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 12 44 44 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/541ee4a1-0bc4-4fb8-a45b-b36ca218cb0a"></kbd>
+- **Internal Load Balancer**
+  -  <kbd><img width="666" alt="Screen Shot 2023-07-01 at 12 45 18 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/91e4ab18-9494-45d1-bd28-fe4b43261e62"></kbd>
+
+## Kubernetes Engineer and Containers
+
+
+
+
 
 
 
