@@ -135,6 +135,23 @@
 - **IPsec:** short for Internet Protocol Security, is a suite of protocols and standards that provide security services for IP (Internet Protocol) network communication
 - **IKE:** stands for Internet Key Exchange, is a protocol used for secure key exchange and negotiation in IPsec-based VPN (Virtual Private Network) connections
 
+## Serverless Services
+
+- **App Engine**
+  - **Sandbox Enviornment:**
+    - refers to a controlled and isolated environment where developers can safely test and experiment with applications, code changes, or new features without impacting the production or live environment
+    - provide a separate and independent space where developers can freely explore and test their code without the risk of causing disruptions or introducing bugs in the live system. It acts as a replica or simulation of the production environment but is isolated from it
+  - <kbd><img width="666" alt="Screen Shot 2023-07-02 at 12 24 16 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/a0ced7e3-b3d5-44aa-b04b-7043497e0af1"></kbd>
+  - **Traffic Spliting:**
+    - <kbd><img width="666" alt="Screen Shot 2023-07-02 at 12 29 10 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/a31f05dc-10b0-4669-8862-5bd12280fbc7"></kbd>
+- **Cloud Function**
+  - only one trigger can be bind to a function at a time
+  - function must be stateless
+  - function by default has access to public internet. It can also be configured to be private and used within your VPC
+  - <kbd><img width="666" alt="Screen Shot 2023-07-02 at 12 45 10 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/857e6310-6b70-4e25-b74c-63ddfb8c19cb"></kbd>
+- 
+
+
 
 
 
