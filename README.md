@@ -6,7 +6,7 @@
   - private cloud follows the 5 characteristics of cloud
 - **on-premise data center:** a group of servers that you privately own and control
   - private data center does not follow the 5 characteristics of cloud
-- <kbd><img width="777" alt="Screen Shot 2023-06-24 at 5 28 01 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/8069c086-d5c6-4f73-ac9a-c4aa69641db9"></kbd>
+- <kbd><img width="666" alt="Screen Shot 2023-06-24 at 5 28 01 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/8069c086-d5c6-4f73-ac9a-c4aa69641db9"></kbd>
 - **Network File System (NFS):** a distributed file system protocol for shared storage. The NFS shared storage protocol defines the way files are stored and retrieved from storage devices across networks. It is one of several network-attached storage (NAS) distributed file system standards
 - **IOPS:** input/output operations per second
 
@@ -28,7 +28,7 @@
 - <kbd><img width="666" alt="Screen Shot 2023-06-27 at 5 24 09 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/dd455445-8fb8-4b62-9a50-130a5ed0d0bc"></kbd>
 - <kbd><img width="666" alt="Screen Shot 2023-06-27 at 6 03 03 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/c9f10b87-268f-4f7a-9481-bf3026c29b7f"></kbd>
 - **Google Cloud Directory Sync (GCDS)**
-  - <kbd><img width="1433" alt="Screen Shot 2023-06-27 at 6 49 16 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/d51443db-c566-45b4-a4b7-fb8e43bbe570"></kbd>
+  - <kbd><img width="666" alt="Screen Shot 2023-06-27 at 6 49 16 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/d51443db-c566-45b4-a4b7-fb8e43bbe570"></kbd>
 
 ## Networking Services
 
@@ -101,6 +101,34 @@
   -  <kbd><img width="666" alt="Screen Shot 2023-07-01 at 12 45 18 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/91e4ab18-9494-45d1-bd28-fe4b43261e62"></kbd>
 
 ## Kubernetes Engineer and Containers
+
+- **VM vs Containers:**
+  - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 2 09 18 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/cabce042-1fb0-409c-8ef2-2b81ff4d2aaa"></kbd>
+- **docker image:**
+  - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 2 11 30 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/17080923-d9ef-43a1-88ec-17df47c8219c"></kbd>
+- **docker container:**
+  - a read/write layer is created on top of the docker image everytime a docker container is running
+  - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 2 14 17 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/abb55dbc-f2d1-4936-baff-db8d1bb42bb3"></kbd>
+- **GKE**
+  - the control plane is always upgraded before the nodes
+  - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 2 24 33 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/e5bdb6c2-fc19-40e7-9c4c-6e28ccff0f27"></kbd>
+  - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 2 41 30 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/5ecfc092-462e-4142-850a-98e6f6b1f54c"></kbd>
+  - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 2 42 26 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/51910135-b059-481e-a587-8247b5cc2402"></kbd>
+  - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 3 01 30 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/6dee9e16-931c-45cf-8592-e50649a1b29b"></kbd>
+- **Kubernetes Services:**
+  - **ClusterIP:**
+    - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 5 28 52 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/88d787ba-6e4f-4d46-b1af-1247a7533448"></kbd>
+  - **NodePort:**
+    - relies on knowing the ip addresses of the nodes, which can change at any time
+    - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 5 29 54 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/f9f8d5f0-7645-47e4-a236-77f00e9c4e94"></kbd>
+  - **LoadBalancer:**
+    - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 5 34 42 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/0c8a09f1-15d2-403d-be3c-4f65d0ee86d6"></kbd>
+  - **Multi-Port Services:**
+    - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 5 39 15 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/60e2667a-7e99-4191-8b4e-169a2aa701fb"></kbd>
+  - **Network endpoint groups (NEG):**
+    - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 5 52 46 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/0b2ee0e3-996b-4a63-b3f5-38ea73aa5ad8"></kbd>
+- **GKE Storage Options:**
+  - <kbd><img width="666" alt="Screen Shot 2023-07-01 at 6 05 02 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/f30a2527-5bbd-4466-bf4a-76c84443920a"></kbd>
 
 
 
