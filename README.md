@@ -150,6 +150,28 @@
   - function by default has access to public internet. It can also be configured to be private and used within your VPC
   - <kbd><img width="666" alt="Screen Shot 2023-07-02 at 12 45 10 AM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/857e6310-6b70-4e25-b74c-63ddfb8c19cb"></kbd>
 
+## Storage Services
+
+- **Service Level Agreement (SLA):** guarantees a high level of availability or uptime for a particular service. The term "four 9s" is shorthand for 99.99%, which represents the desired level of availability
+- **Access Control List (ACL):** a mechanism used to manage and control access to resources within GCP, such as virtual machines, storage buckets, or network resources
+- **Object Lifecycle Management:**
+  - **Time to Live (TTL):** In object life-cycle management, setting this value will control the time to delete or archive non-current versions, or downgrade storage classes of objects
+  - <kbd><img width="666" alt="Screen Shot 2023-07-02 at 1 03 40 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/e6a72923-ac45-4adb-a926-4d07cee03ef6"></kbd>
+  - <kbd><img width="666" alt="Screen Shot 2023-07-02 at 1 05 48 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/afd7a902-bebc-426c-8c5a-eef10a44a282"></kbd>
+- **Cloud SQL:**
+  - **Cloud SQL Proxy:**
+    - <kbd><img width="666" alt="Screen Shot 2023-07-02 at 1 43 58 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/5389a6c2-8325-4786-9e56-08aae4535e5f"></kbd>
+  - **Replication:** 
+    - <kbd><img width="666" alt="Screen Shot 2023-07-02 at 1 44 51 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/05c8935a-eaf2-4119-830b-f3dae329bac9"></kbd>
+  - **High Aviability (HA):**
+    - <kbd><img width="666" alt="Screen Shot 2023-07-02 at 1 46 20 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/58a45523-84a5-43fa-ac06-ed3487009fa3"></kbd>
+    - **Failover:**
+      - <kbd><img width="666" alt="Screen Shot 2023-07-02 at 1 46 59 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/9c13eee2-06e4-43d5-a153-e7dcc74a1477"></kbd>
+    - **Failback:**
+      - <kbd><img width="666" alt="Screen Shot 2023-07-02 at 1 47 31 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/b442f704-6af0-41ab-8dfb-5d28489b8535"></kbd>
+  - **Backups:** 
+    - <kbd><img width="666" alt="Screen Shot 2023-07-02 at 1 49 16 PM" src="https://github.com/kaiyang-code/google-cloud-associate-cloud-engineer/assets/57576013/deb87283-9633-4fa7-bc30-b67a328af580"></kbd>
+
 ## Big Data and Machine Learning
 
 ## Operations Suite
